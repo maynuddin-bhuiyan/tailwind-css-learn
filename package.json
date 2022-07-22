@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build tailwindcss -i ./src/tailwind.css -o ./dist/tailwind.css -w",
+    "test1": "react-scripts build tailwindcss -i ./src/tailwind.css -o ./dist/tailwind.css -w",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
